@@ -1,7 +1,7 @@
 # PacMen
 PacMen Exercise
 
-<img src= "PacMan1.png" width= '300' />
+<img src= "PacMan1.png" width= '100' />
 
 
 ## Description 
