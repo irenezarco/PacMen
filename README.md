@@ -16,5 +16,9 @@ Future improvements include:
   - Erasing all the PacMen. 
   - Generating PacMen of different colors
 
-## License Information
-No license was used in this project
+## License 
+Distributed under the MIT License
+
+## Contact 
+@irene56951729
+
