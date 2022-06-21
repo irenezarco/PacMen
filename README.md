@@ -18,6 +18,7 @@ Future improvements include:
 
 ## License 
 Distributed under the MIT License
+Please read LICENSE file for further details.
 
 ## Contact 
 @irene56951729
